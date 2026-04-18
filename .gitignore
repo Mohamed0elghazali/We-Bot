@@ -1,0 +1,40 @@
+# Environment
+.env
+.env.*
+!.env.example
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Vector DB (large binary files)
+vectordb/
+
+# Data — ignore everything except selected
+data/scraped/
+data/cleaned/
+data/manifest.json
+
+# Ignored project files
+tmp/
+wsl-commands.txt
+PLAN.md
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# pptx
+.pptx

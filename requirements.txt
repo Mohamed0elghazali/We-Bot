@@ -1,0 +1,11 @@
+crawl4ai>=0.6.0
+playwright>=1.44.0
+langchain 
+langgraph
+langchain-community
+langchain-huggingface
+langchain-aws 
+faiss-cpu
+streamlit
+python-docx
+pymupdf
