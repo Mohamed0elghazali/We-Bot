@@ -38,4 +38,5 @@ Thumbs.db
 
 # Presentations
 *.pptx
+~$*.pptx
 *.pdf
